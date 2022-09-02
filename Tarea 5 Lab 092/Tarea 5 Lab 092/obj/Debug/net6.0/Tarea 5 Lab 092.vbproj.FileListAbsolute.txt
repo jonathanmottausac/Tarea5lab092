@@ -1,0 +1,15 @@
+C:\Users\yeyeu\source\repos\Tarea 5 Lab 092\Tarea 5 Lab 092\bin\Debug\net6.0\Tarea 5 Lab 092.exe
+C:\Users\yeyeu\source\repos\Tarea 5 Lab 092\Tarea 5 Lab 092\bin\Debug\net6.0\Tarea 5 Lab 092.deps.json
+C:\Users\yeyeu\source\repos\Tarea 5 Lab 092\Tarea 5 Lab 092\bin\Debug\net6.0\Tarea 5 Lab 092.runtimeconfig.json
+C:\Users\yeyeu\source\repos\Tarea 5 Lab 092\Tarea 5 Lab 092\bin\Debug\net6.0\Tarea 5 Lab 092.dll
+C:\Users\yeyeu\source\repos\Tarea 5 Lab 092\Tarea 5 Lab 092\bin\Debug\net6.0\Tarea 5 Lab 092.pdb
+C:\Users\yeyeu\source\repos\Tarea 5 Lab 092\Tarea 5 Lab 092\obj\Debug\net6.0\Tarea 5 Lab 092.vbproj.AssemblyReference.cache
+C:\Users\yeyeu\source\repos\Tarea 5 Lab 092\Tarea 5 Lab 092\obj\Debug\net6.0\Tarea 5 Lab 092.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeyeu\source\repos\Tarea 5 Lab 092\Tarea 5 Lab 092\obj\Debug\net6.0\Tarea 5 Lab 092.AssemblyInfoInputs.cache
+C:\Users\yeyeu\source\repos\Tarea 5 Lab 092\Tarea 5 Lab 092\obj\Debug\net6.0\Tarea 5 Lab 092.AssemblyInfo.vb
+C:\Users\yeyeu\source\repos\Tarea 5 Lab 092\Tarea 5 Lab 092\obj\Debug\net6.0\Tarea 5 Lab 092.vbproj.CoreCompileInputs.cache
+C:\Users\yeyeu\source\repos\Tarea 5 Lab 092\Tarea 5 Lab 092\obj\Debug\net6.0\Tarea 5 Lab 092.dll
+C:\Users\yeyeu\source\repos\Tarea 5 Lab 092\Tarea 5 Lab 092\obj\Debug\net6.0\refint\Tarea 5 Lab 092.dll
+C:\Users\yeyeu\source\repos\Tarea 5 Lab 092\Tarea 5 Lab 092\obj\Debug\net6.0\Tarea 5 Lab 092.pdb
+C:\Users\yeyeu\source\repos\Tarea 5 Lab 092\Tarea 5 Lab 092\obj\Debug\net6.0\Tarea 5 Lab 092.genruntimeconfig.cache
+C:\Users\yeyeu\source\repos\Tarea 5 Lab 092\Tarea 5 Lab 092\obj\Debug\net6.0\ref\Tarea 5 Lab 092.dll
